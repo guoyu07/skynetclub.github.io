@@ -9,7 +9,7 @@ layout: default
   <p>skynet是云风编写的服务端底层管理框架，底层由C编写，配套lua作为脚本使用，可换python等其他脚本语言。skynet主要工作是管理注册服务，并开启多线程协调服务之间的调用和通讯。</p>
   </div>
   
-  <h2 class="page-heading">社区精华 | <a href="/topics.html" title="更多">more</a></h2>
+  <h2 class="page-heading">社区精华 | <a href="/topics.skynet" title="更多">more</a></h2>
   {% if site.tags['skynet'] %}
       <ul class="post-list">
         {% for post in site.tags['skynet'] %}
