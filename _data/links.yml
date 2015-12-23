@@ -1,17 +1,17 @@
 - name: Topics
-  url: /topics.skynet
+  url: /topics
 
 - name: WIKI
-  url: /wiki.skynet
+  url: /wiki
 
 - name: Book
-  url: /book.skynet
+  url: /book
   
 - name: Example
-  url: /example.skynet
+  url: /example
 
 - name: Sites
-  url: /sites.skynet
+  url: /sites
 
 - name: About
-  url: /about.skynet
+  url: /about
