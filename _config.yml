@@ -8,5 +8,7 @@ url: "http://skynetclub.forthxu.com" # the base hostname & protocol for your sit
 #twitter_username: forthxu
 github_username:  skynetclub
 
+host: 0.0.0.0
+
 # Build settings
 markdown: kramdown

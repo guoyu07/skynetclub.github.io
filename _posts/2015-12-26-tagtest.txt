@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to skynet club!"
+date:   2015-08-06 16:03:19
+categories: jekyll update
+tags: [skynet, github-pages]
+---

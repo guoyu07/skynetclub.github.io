@@ -1,0 +1,17 @@
+- name: Topics
+  url: /topics.html
+
+- name: WIKI
+  url: /wiki.html
+
+- name: Book
+  url: /book.html
+  
+- name: Example
+  url: /example.html
+
+- name: Sites
+  url: /sites.html
+
+- name: About
+  url: /about.html
