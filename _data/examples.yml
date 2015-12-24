@@ -1,0 +1,3 @@
+- name: talkbox
+  url: https://github.com/forthxu/talkbox
+  desc: 基于skynet的聊天室

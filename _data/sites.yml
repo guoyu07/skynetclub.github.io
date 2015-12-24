@@ -1,0 +1,15 @@
+- name: skynet
+  url: https://github.com/cloudwu/skynet
+  desc: github仓库
+ 
+- name: 云风BLOG
+  url: http://blog.codingnow.com/
+  desc: 云风BLOG的博客
+
+- name: forthxu.com
+  url: http://forthxu.com
+  desc: 惊蛰
+
+- name: peimin.org
+  url: http://peimin.org
+  desc: 天空之辰

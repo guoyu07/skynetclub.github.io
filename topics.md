@@ -4,7 +4,6 @@ title:  "skynet topics"
 date:   2015-08-06 16:03:19
 categories: skynet
 tags: [skynet]
-permalink: /topics
 ---
 
 <div class="home">

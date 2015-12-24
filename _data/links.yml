@@ -1,17 +1,17 @@
 - name: Topics
-  url: /topics
+  url: /topics.html
 
 - name: WIKI
-  url: /wiki
+  url: https://github.com/cloudwu/skynet/wiki
 
 - name: Book
-  url: /book
+  url: /book.html
   
-- name: Example
-  url: /example
+- name: Examples
+  url: /examples.html
 
 - name: Sites
-  url: /sites
+  url: /sites.html
 
 - name: About
-  url: /about
+  url: /about.html

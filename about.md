@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about.skynet
+permalink: /about.html
 ---
 
 #skynet开源社区
