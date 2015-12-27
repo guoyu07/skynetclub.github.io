@@ -4,8 +4,8 @@
 - name: WIKI
   url: https://github.com/cloudwu/skynet/wiki
 
-- name: Book
-  url: /book.html
+- name: Books
+  url: /books.html
   
 - name: Examples
   url: /examples.html
