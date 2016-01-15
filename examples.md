@@ -8,14 +8,14 @@ tags: [skynet]
 
 <div class="home">
 
-  <h1 class="page-heading">相关网站</h1>
+  <h1 class="page-heading">skynet例子</h1>
 
 
       <ul class="post-list">
         {% for link in site.data.examples %}
           <li>
             <h3>
-              <a class="post-link" href="{{ link.url }}">{{ link.name }}</a>
+              <a class="post-link" href="{{ link.url }}" target="_blank">{{ link.name }}</a>
             </h3>
             <span class="post-meta">{{ link.desc }}</span>
           </li>

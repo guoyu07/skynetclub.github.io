@@ -1,3 +1,12 @@
 - name: talkbox
   url: https://github.com/forthxu/talkbox
-  desc: 基于skynet的聊天室
+  desc: 基于skynet的聊天室，使用protocol buffer压缩数据
+- name: talkbox对应的flash客户端
+  url: https://github.com/forthxu/talkbox_client
+  desc: 基于skynet的聊天室，使用protocol buffer压缩数据
+- name: 斗地主，cocos2d-x c++
+  url: https://github.com/skynetclub/ddz
+  desc: 还是单机版，赶工中...
+- name: cocos2d-x与skynet的通讯模块
+  url: https://github.com/skynetclub/skynet_cocos2d-x_network
+  desc: c++,使用protocol buffer压缩数据，开启两个线程处理发送和接收两个队列，赶工中...
