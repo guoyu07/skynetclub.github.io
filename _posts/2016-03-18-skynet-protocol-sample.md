@@ -1,25 +1,12 @@
 ---
-layout: post
+layout: default
 title:  "skynet protocol sample"
 date:   2016-03-18 16:03:19
 categories: skynet
 tags: [skynet]
 ---
 
-<style>
-*{margin:0;padding:0;}
-table{border-collapse:collapse;}
-table thead th,table tbody td,table tfoot td{border:1px solid #dadada;vertical-align:middle;padding:5px;}
-table thead th{background-color:#efefef;}
-table tbody td{}
-h2,h3,h4,p{margin-bottom:10px;}
-
-.protocol{padding:10px 20px;}
-.protocol h2{border-bottom:1px solid grey;}
-.protocol_group{}
-.protocol_instance{margin-bottom:20px;margin-left:40px;padding:10px;border:dashed 1px grey}
-
-</style>
+<link rel="stylesheet" href="{{ "/css/protocol.css" | prepend: site.baseurl }}">
 <div class="protocol">
     <h2>header</h2>
     <p>protocol header</p>

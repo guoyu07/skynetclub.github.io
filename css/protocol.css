@@ -1,0 +1,10 @@
+.protocol table{border-collapse:collapse;}
+.protocol table thead th,table tbody td,table tfoot td{border:1px solid #dadada;vertical-align:middle;padding:5px;}
+.protocol table thead th{background-color:#efefef;}
+.protocol table tbody td{}
+.protocol h2,.protocol h3,.protocol h4,.protocol p{margin-bottom:10px;}
+
+.protocol{padding:10px 20px;}
+.protocol h2{border-bottom:1px solid grey;}
+.protocol_group{}
+.protocol_instance{margin-bottom:20px;margin-left:40px;padding:10px;border:dashed 1px grey}
