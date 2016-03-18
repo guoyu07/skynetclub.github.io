@@ -85,7 +85,7 @@ message Announcement
                         <td>structure</td>
                         <td colspan="4">
                         <pre>
-message Announcement 
+message Money 
 {
     required int32 Type = 1;   //type
     required int32 Num = 2;   //num
@@ -113,7 +113,7 @@ message Announcement
                         <td>structure</td>
                         <td colspan="4">
                         <pre>
-message Announcement 
+message Life 
 {
     required int32 Type = 1;   //type
     required int32 Num = 2;   //num
