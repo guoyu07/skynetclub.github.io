@@ -3,8 +3,9 @@
 .protocol table thead th{background-color:#efefef;}
 .protocol table tbody td{}
 .protocol h2,.protocol h3,.protocol h4,.protocol p{margin-bottom:10px;}
+.protocol p{text-indent:2em;}
 
 .protocol{padding:10px 20px;}
 .protocol h2{border-bottom:1px solid grey;}
 .protocol_group{}
-.protocol_instance{margin-bottom:20px;margin-left:40px;padding:10px;border:dashed 1px grey}
+.protocol_instance{margin-bottom:20px;margin-left:2em;padding:10px;border:dashed 1px grey}

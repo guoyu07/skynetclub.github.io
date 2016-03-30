@@ -8,6 +8,14 @@ tags: [skynet]
 
 <link rel="stylesheet" href="{{ "/css/protocol.css" | prepend: site.baseurl }}">
 <div class="protocol">
+    <h2>caption</h2>
+    <p>目前制定的是我在做的<a href="https://github.com/forthxu/brave" target="_blank">一款开源横版格斗游戏</a>协议，其他类型可以参考，协议由header和body组成。</p>
+    <p>header除了skynet规定的两个byte表示剩余内容长度，还有协议版本号（1 byte）、协议ID（2 byte），因此body最多只能有65533 byte。</p>
+    <p>其中协议ID两个byte为了方便模块化操作又做了细分，这里简单分为8位表示模块，8位表示模块内协议，所以可以有256个模块每个模块256个协议，一般够用。</p>
+    <p>body内容可以采用任意形式，string、json、xml、protobuf ...，我采用的是<a href="https://developers.google.com/protocol-buffers/" target="_blank">google protocol buffer</a>。</p>
+    <p>客户端目前我采用的是开socket线程和做消息队列的模式，socket线程读到消息后放入相应队列，这里总共设置有四个队列，游戏外的队列、场景队列、副本队列、优先队列。游戏外队列用在还没有登陆的情况下，供登陆场景来读取登陆、注册等消息；处于场景时则读取场景队列，如聊天模块、好友模块，公告、活动等消息；副本模块主要用来保证战斗时的消息；优先模块一般可以直接在socket线程上直接处理，如踢玩家下线。网络部分这里依然是给出了<a href="/examples.html" target="_blank">talkbox</a>相关的例子</p>
+</div>
+<div class="protocol">
     <h2>header</h2>
     <p>protocol header</p>
     <div class="protocol_group">
