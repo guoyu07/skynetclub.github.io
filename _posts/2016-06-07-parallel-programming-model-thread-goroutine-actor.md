@@ -3,7 +3,7 @@ layout: post
 title:  "并发之痛 Thread，Goroutine，Actor"
 date:   2016-06-07 17:03:19
 categories: concurrent
-tags: [skynet,Thread,Goroutine,Actor]
+tags: [concurrent,skynet,Thread,Goroutine,Actor]
 ---
 
 <article class="post-content">
@@ -278,6 +278,7 @@ tags: [skynet,Thread,Goroutine,Actor]
   <li>自管理 前面的两点最终的目标都是实现一个可以自管理的系统。做过系统运维的同学都知道，我们照顾系统就像照顾孩子一样，时刻要监控系统的各种状态，接受系统的各种报警，然后排查问题，进行紧急处理。孩子有长大的一天，那能不能让系统也自己成长，做到自管理呢？虽然这个目标现在看来还比较远，但我觉得是可以期待的。</li>
 </ul>
 
+<p><img src="http://jolestar.com/images/weichat/qrcode_jolestar_blog2.png" alt="qrcode_jolestar_blog2"></p>
 
 <p>引用以及扩展阅读</p>
 
