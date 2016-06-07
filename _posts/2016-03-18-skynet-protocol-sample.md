@@ -3,7 +3,7 @@ layout: default
 title:  "skynet protocol sample"
 date:   2016-03-18 16:03:19
 categories: skynet
-tags: [skynet]
+tags: [skynet,protocol]
 ---
 
 <link rel="stylesheet" href="{{ "/css/protocol.css" | prepend: site.baseurl }}">

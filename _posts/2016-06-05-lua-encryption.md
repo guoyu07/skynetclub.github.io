@@ -3,7 +3,7 @@ layout: post
 title:  "skynet项目lua代码简单加密"
 date:   2016-06-05 16:03:19
 categories: skynet
-tags: [skynet]
+tags: [skynet,lua]
 ---
 
 <div class="article_c">
