@@ -34,6 +34,7 @@ table td{text-align:center;border:1px solid #f2f2f2;width:25%;height:80px;}
   <td><a href="http://cloudwu.github.io/lua53doc/" title="lua 5.3 手册" target="_blank">lua 5.3 手册</a></td>
   <td>skynet qq群:340504014</td>
   </tr>
+  <tr><td colspan="4"><a href="/donate.html" target="_blank">捐赠|donate</a></td></tr>
   </table>
   
   <h2 class="page-heading">社区精华 | <a href="/topics" title="更多">more</a></h2>

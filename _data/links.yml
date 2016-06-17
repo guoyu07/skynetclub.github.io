@@ -15,3 +15,6 @@
 
 - name: About
   url: /about.html
+  
+- name: Donate
+  url: /donate.html
