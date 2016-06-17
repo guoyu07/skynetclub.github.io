@@ -32,6 +32,8 @@ qq支付需要加群后方可支付
 <tr><td colspan="3" style="text-align:left;">1. 捐赠名单将在不同捐赠榜显示<br/>2. 捐赠 请务必留言姓名|公司|网名|匿名以及是否显示捐赠金额（默认显示）<br/>3. qq群由【天空】维护，网站由【st.sail】维护<br/>4. 网站捐赠将会定期公布捐赠用途，qq群捐赠将用于qq群年会</td></tr>
 </table>
 
+<br/><br/>
+
 <table>
 <tr><td colspan="4">捐赠网站</td></tr>
 <tr>
@@ -48,20 +50,11 @@ qq支付需要加群后方可支付
 </tr>
 </table>
 
+<br/><br/>
+
 <table>
-<tr><td colspan="4">捐赠qq群</td></tr>
-<tr>
-<td>时间</td>
-<td>捐赠人</td>
-<td>捐赠方式</td>
-<td>金额（元）</td>
-</tr>
-<tr>
-<td>2016-06-17</td>
-<td>st.sail</td>
-<td>qq</td>
-<td>1</td>
-</tr>
+<tr><td>捐赠qq群</td></tr>
+<tr><td><script src="https://gist.github.com/peimin/f7f0fda2ff81e445a9835d7c5bae5a24.js"></script></td></tr>
 </table>
 
 
