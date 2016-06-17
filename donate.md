@@ -33,27 +33,31 @@ qq支付需要加群后方可支付
 </table>
 
 <table>
-<tr><td colspan="3">捐赠网站</td></tr>
+<tr><td colspan="4">捐赠网站</td></tr>
 <tr>
+<td>时间</td>
 <td>捐赠人</td>
 <td>捐赠方式</td>
 <td>金额（元）</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>2016-06-17</td>
+<td>Hopcraft</td>
+<td>微信支付</td>
+<td>10</td>
 </tr>
 </table>
 
 <table>
-<tr><td colspan="3">捐赠qq群</td></tr>
+<tr><td colspan="4">捐赠qq群</td></tr>
 <tr>
+<td>时间</td>
 <td>捐赠人</td>
 <td>捐赠方式</td>
 <td>金额（元）</td>
 </tr>
 <tr>
+<td>2016-06-17</td>
 <td>st.sail</td>
 <td>qq</td>
 <td>1</td>
