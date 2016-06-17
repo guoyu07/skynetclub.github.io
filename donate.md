@@ -54,6 +54,24 @@ qq支付需要加群后方可支付
 <td>微信支付</td>
 <td>2</td>
 </tr>
+<tr>
+<td>2016-06-17</td>
+<td>Shanfl</td>
+<td>微信支付</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2016-06-17</td>
+<td>杨文向</td>
+<td>微信支付</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2016-06-17</td>
+<td>Kexiao</td>
+<td>支付宝支付</td>
+<td>30</td>
+</tr>
 </table>
 
 <br/><br/>
