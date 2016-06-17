@@ -48,6 +48,12 @@ qq支付需要加群后方可支付
 <td>微信支付</td>
 <td>10</td>
 </tr>
+<tr>
+<td>2016-06-17</td>
+<td>Leon</td>
+<td>微信支付</td>
+<td>2</td>
+</tr>
 </table>
 
 <br/><br/>
