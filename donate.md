@@ -78,6 +78,24 @@ qq支付需要加群后方可支付
 <td>支付宝支付</td>
 <td>30</td>
 </tr>
+<tr>
+<td>2016-06-18</td>
+<td>深圳-xx</td>
+<td>支付宝支付</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2016-06-18</td>
+<td>Plane</td>
+<td>微信支付</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2016-06-18</td>
+<td>hwh</td>
+<td>微信支付</td>
+<td>5</td>
+</tr>
 </table>
 
 <br/><br/>
