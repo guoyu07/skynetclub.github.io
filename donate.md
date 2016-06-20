@@ -96,6 +96,18 @@ qq支付需要加群后方可支付
 <td>微信支付</td>
 <td>5</td>
 </tr>
+<tr>
+<td>2016-06-19</td>
+<td>korman</td>
+<td>支付宝支付</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2016-06-19</td>
+<td>粱泗</td>
+<td>微信宝支付</td>
+<td>1</td>
+</tr>
 </table>
 
 <br/><br/>
