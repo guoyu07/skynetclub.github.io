@@ -19,6 +19,10 @@ table td{text-align:center;border:1px solid #f2f2f2;width:25%;height:80px;}
   <div class="box">
   <h1 class="page-heading">skynet非官方网站<iframe src="http://ghbtns.com/github-btn.html?user=skynetclub&repo=skynetclub.github.io&type=star&count=false&size=none" frameborder="0" scrolling="0" width="53px" height="20px"></iframe></h1>
   <p>skynet是云风编写的服务端底层管理框架，底层由C编写，配套lua作为脚本使用，可换python等其他脚本语言。skynet主要工作是管理注册服务，并开启多线程协调服务之间的调用和通讯。</p>
+  </div>
+  
+  <div class="box">
+  <h3><a href="/skynet/resource.html" title="skynet资源收集">[持续更新] skynet资源收集</a></h3>
   <h3><a href="http://blog.codingnow.com/2016/07/skynet_released.html" title="Skynet 1.0.0 正式发布" target="_blank">[2016.07.11] Skynet 1.0.0 正式发布</a></h3>
   </div>
 

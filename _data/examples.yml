@@ -10,3 +10,24 @@
 - name: cocos2d-x与skynet的通讯模块
   url: https://github.com/skynetclub/skynet_cocos2d-x_network
   desc: c++,使用protocol buffer压缩数据，开启两个线程处理发送和接收两个队列，对接上talkbox， 直接下载apk http://t.cn/Rb1R5ux 
+- name: 基于skynet的http server
+  url: https://github.com/hyd998877/skynet-http
+  desc: 
+- name: 有cocos2dx客户端的聊天例子
+  url: https://github.com/coderHsc/chatOfSkynet
+  desc: 
+- name: 某小型多人角色扮演游戏服务器
+  url: https://github.com/jintiao/some-mmorpg
+  desc: 
+- name: A experimental project for moba like game server
+  url: https://github.com/cloudwu/battlearena
+  desc: 
+- name: A game engine based on skynet
+  url: https://github.com/fztcjjl/metoo
+  desc: 
+- name: a game with unity3D
+  url: https://github.com/nottvlike/OpenWorldGame
+  desc: 
+- name: slua+skynet
+  url: https://github.com/nottvlike/slua
+  desc: 

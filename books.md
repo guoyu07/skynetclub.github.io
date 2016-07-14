@@ -12,6 +12,6 @@ tags: [skynet]
 
         
   
-  <p><a href="/book" title="《skynet入门实践》">《skynet入门实践》</a></p>
+  <p><a href="/book" title="《skynet入门实践》">《skynet入门实践》</a>[暂停编写]</p>
 
 </div>
