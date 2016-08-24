@@ -34,7 +34,7 @@ table td{text-align:center;border:1px solid #f2f2f2;width:25%;height:80px;}
   <td><a href="/book" title="《skynet入门实践》" target="_blank">《skynet入门实践》</a></td>
   </tr>
   <tr>
-  <td><a href="https://github.com/cloudwu/skynet" title="skynet源码仓库" target="_blank">skynet源码仓库</a><br /><iframe src="http://ghbtns.com/github-btn.html?user=skynetclub&repo=skynetclub.github.io&type=star&count=false&size=none" frameborder="0" scrolling="0" width="53px" height="20px"></iframe></td>
+  <td><a href="https://github.com/cloudwu/skynet" title="skynet源码仓库" target="_blank">skynet源码仓库</a><br /><iframe src="http://ghbtns.com/github-btn.html?user=cloudwu&repo=skynet&type=star&count=false&size=none" frameborder="0" scrolling="0" width="53px" height="20px"></iframe></td>
   <td><a href="http://blog.codingnow.com/eo/skynet/" title="云风博客skynet专栏" target="_blank">云风博客skynet专栏</a></td>
   <td><a href="http://cloudwu.github.io/lua53doc/" title="lua 5.3 手册" target="_blank">lua 5.3 手册</a></td>
   <td>skynet qq群:340504014</td>
