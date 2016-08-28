@@ -12,7 +12,7 @@ table td{border:1px solid grey;text-align:center;}
 <table>
 
 <tr>
-<td width="20%">捐赠网站</td>
+<td width="20%">捐赠网站<br/>微信支付请务必联系我，qq263967133，或者在底下留言。</td>
 <td>微信支付二维码<br/><a href="/static/donate/wx.png" target="_blank"><img src="/static/donate/wx.png" alt="微信支付二维码" style="width:240px;" /></a></td>
 <td>支付宝支付二维码<br/><a href="/static/donate/zfb.jpg" target="_blank"><img src="/static/donate/zfb.jpg" alt="支付宝支付二维码" style="width:200px;" /></a></td>
 </tr>
@@ -131,6 +131,12 @@ qq支付需要加群后方可支付
 <td>阅尽它宝</td>
 <td>支付宝支付</td>
 <td>1</td>
+</tr>
+<tr>
+<td>2016-08-28</td>
+<td>无聊咔咔(来自qq群525773145)</td>
+<td>微信宝支付</td>
+<td>100</td>
 </tr>
 </table>
 
