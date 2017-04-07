@@ -22,7 +22,7 @@ table td{text-align:center;border:1px solid #f2f2f2;width:25%;height:80px;}
   </div>
   
   <div class="box">
-  <h3><a href="/skynet/resource.html" title="skynet资源收集">[持续更新] skynet资源收集</a></h3>
+  <h3><a href="/skynet/resource.html" title="skynet资源收集">[持续更新，最后更新20170407] skynet资源收集</a></h3>
   <h3><a href="http://blog.codingnow.com/2016/07/skynet_released.html" title="Skynet 1.0.0 正式发布" target="_blank">[2016.07.11] Skynet 1.0.0 正式发布</a></h3>
   </div>
 

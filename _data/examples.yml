@@ -31,3 +31,9 @@
 - name: slua+skynet
   url: https://github.com/nottvlike/slua
   desc: 
+- name: 房卡类麻将游戏
+  url: https://github.com/yuanfengyun/mj_server
+  desc: 包含服务端和客户端，分别使用skynet 和 cocos2d-lua
+- name: cocos2dx使用luasocket 和 protobuf 连接skynet.
+  url: https://github.com/gameloses/cocos2dx_lua_skynet_client.git
+  desc: 
